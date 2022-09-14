@@ -1,9 +1,17 @@
-# Games Black-list
-### A blacklist of some games domains.
+# Black-list
+### A blacklist of some boring game and software domains.
 
-Initially Roblox and PK-XD.
+## For now (9-13-2022):
+### Games
+Roblox
+PK-XD
 
-Add or attach game-hosts.txt to your hosts file.
+### Softwares
+Adobe
+Autodesk
+Corel
+
+Add or attach *hosts.txt to your hosts file.
 
 I recommend you to use a dns server or hosts file manager. For example, use Adlist section on Pi-hole DNS server.
 
