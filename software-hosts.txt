@@ -159,12 +159,12 @@
 0.0.0.0 www.wip4.adobe.com
 
 # [Corel]
-0.0.0.0  apps.corel.com
-0.0.0.0  mc.corel.com
-0.0.0.0  iws.corel.com
-0.0.0.0  deploy.akamaitechnologies.com
-0.0.0.0  compute-1.amazonaws.com
-0.0.0.0  origin-mc.corel.com
+0.0.0.0 apps.corel.com
+0.0.0.0 mc.corel.com
+0.0.0.0 iws.corel.com
+0.0.0.0 deploy.akamaitechnologies.com
+0.0.0.0 compute-1.amazonaws.com
+0.0.0.0 origin-mc.corel.com
 
 # [Autodesk]
 0.0.0.0 autodesk.fi 
