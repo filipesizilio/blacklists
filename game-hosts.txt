@@ -51,8 +51,10 @@
 0.0.0.0 pkds.it
 0.0.0.0 playkidsapp.com
 0.0.0.0 game-store-data.pkds.it
+0.0.0.0 gsn-posts.aftvrsys.com
 0.0.0.0 pkxd-localization.aftvrsys.com
 0.0.0.0 pkxd-bucket.playkidsapp.com
+0.0.0.0 pkxd-lobby.pkds.it
 
 # [Others]
 0.0.0.0 superkinglabs.com
