@@ -300,3 +300,9 @@
 0.0.0.0 wormhole.autodesk.com
 0.0.0.0 www.autodesk.com
 0.0.0.0 www3.autodesk.com
+
+# [Topaz]
+0.0.0.0 topazlabs.com
+0.0.0.0 et.topazlabs.com
+0.0.0.0 104.22.33.115
+0.0.0.0 172.67.37.186
