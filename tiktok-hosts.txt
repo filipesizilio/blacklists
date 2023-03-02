@@ -3,6 +3,7 @@
 0.0.0.0 tiktokcdn.com
 0.0.0.0 tiktokv.com
 
+0.0.0.0 analytics.tiktok.com
 0.0.0.0 api16-core-c-alisg.tiktokv.com
 0.0.0.0 api16-core-c-useast1a.tiktokv.com
 0.0.0.0 api16-core-va.tiktokv.com
