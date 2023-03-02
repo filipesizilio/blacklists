@@ -1,4 +1,7 @@
 # [Youtube]
+# We recommend use Group/user management to not block all youtube traffic.
+# May affect other google services
+
 0.0.0.0 172.217.10.110
 0.0.0.0 172.217.165.142
 0.0.0.0 172.217.7.14
