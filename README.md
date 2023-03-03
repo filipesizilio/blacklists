@@ -1,30 +1,42 @@
 # Sizilio's Blacklists
 Blacklists of some boring game and software domains.
 
+I decided to join here some lists with hostnames that I didn't find in other lists and that I like to block.
+Maybe it will work for more people. And I recommend to use Pi-hole DNS server.
+
+This is a personal project for my very specific goals. Use at your own risk! I am not responsible for problems on your network.
 
 ### Lists 
-#### Games
+#### Games (addictive for my daughters)
   - Roblox
   - PK-XD
 
-#### Softwares
+#### Softwares (annoying apps accessing the network unnecessarily)
   - Adobe
   - Autodesk
   - Corel
+  - Topaz
 
-That's it for now!
+#### Youtube (blocks all YouTube on the network. Recommend group/user/client management)
 
-9-13-2022.
+#### TikTok (blocks all TikTok on the network. Yes! Necessary for the mental health of your loved ones)
 
+#### Trackers (a few trackers, such as facebook and instagram. Does not affect access)
 
-Add or attach any of the lists to your `/etc/hosts` or `c:\Windows\System32\Drivers\etc\hosts` file.
+#### Ads and Suspicious (some ads and some suspicious domains, that I don't know what they are for)
 
-I recommend you to use a dns server or hosts file manager to sync. For example, use Adlist section on Pi-hole DNS server.
+That's just it for now!
 
-This is a personal project for my very specific goals. Use at your own risk! I am not responsible for problems on your network.
+created at: 9-13-2022.
+lastest update: 3-3-2023
+
 
 ### Download
 | List       | Download link                                                            |
 | :----------| :----------------------------------------------------------------------- |
 | Games      | https://github.com/filipesizilio/blacklists/raw/main/game-hosts.txt      |
 | Softwares  | https://github.com/filipesizilio/blacklists/raw/main/software-hosts.txt  |
+| Youtube    | https://github.com/filipesizilio/blacklists/raw/main/youtube-hosts.txt   |
+| TikTok     | https://github.com/filipesizilio/blacklists/raw/main/tiktok-hosts.txt    |
+| Trackers   | https://github.com/filipesizilio/blacklists/raw/main/trackers-hosts.txt  |
+| Ads and suspicious   | https://github.com/filipesizilio/blacklists/raw/main/ads-susp-hosts.txt  |
