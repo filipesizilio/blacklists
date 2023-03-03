@@ -2,6 +2,7 @@
 0.0.0.0 graph.facebook.com
 0.0.0.0 graph.instagram.com
 0.0.0.0 tracker.ilibr.org
+0.0.0.0 tracker.opentrackr.org
 0.0.0.0 tracker.thinelephant.org
 0.0.0.0 dynamic-standard.com
 0.0.0.0 trc.taboola.com
