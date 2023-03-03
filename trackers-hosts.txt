@@ -7,3 +7,4 @@
 0.0.0.0 trc.taboola.com
 0.0.0.0 t7.taboola.com
 0.0.0.0 trk.zedia.com.br
+0.0.0.0 trk.mail.ru
