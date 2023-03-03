@@ -17,12 +17,10 @@ This is a personal project for my very specific goals. Use at your own risk! I a
   - Corel
   - Topaz
 
-#### Youtube (blocks all YouTube on the network. Recommend group/user/client management)
-
-#### TikTok (blocks all TikTok on the network. Yes! Necessary for the mental health of your loved ones)
-
+### Others Lists under construction
+#### Youtube (intend to block all YouTube on the network. Recommend group/user/client management. May affect other google services)
+#### TikTok (intend to block all TikTok on the network. Yes! It's necessary for the mental health of your loved ones)
 #### Trackers (a few trackers, such as facebook and instagram. Does not affect access)
-
 #### Ads and Suspicious (some ads and some suspicious domains, that I don't know what they are for)
 
 That's just it for now!
