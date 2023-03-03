@@ -16,6 +16,8 @@
 0.0.0.0 shop.tiktok.com
 0.0.0.0 service.tiktok.com
 0.0.0.0 us.tiktok.com
+0.0.0.0 vt.tiktok.com
+0.0.0.0 vm.tiktok.com
 
 0.0.0.0 tiktokcdn.com
 0.0.0.0 tiktokv.com
