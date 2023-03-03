@@ -6,7 +6,7 @@ Maybe it will work for more people. And I recommend to use Pi-hole DNS server.
 
 This is a personal project for my very specific goals. Use at your own risk! I am not responsible for problems on your network.
 
-### Lists 
+### My Lists 
 #### Games (addictive for my daughters)
   - Roblox
   - PK-XD
@@ -18,15 +18,14 @@ This is a personal project for my very specific goals. Use at your own risk! I a
   - Topaz
 
 ### Others Lists under construction
-#### Youtube (intend to block all YouTube on the network. Recommend group/user/client management. May affect other google services)
-#### TikTok (intend to block all TikTok on the network. Yes! It's necessary for the mental health of your loved ones)
-#### Trackers (a few trackers, such as facebook and instagram. Does not affect access)
-#### Ads and Suspicious (some ads and some suspicious domains, that I don't know what they are for)
+- Youtube (intend to block all YouTube on the network. Recommend group/user/client management. May affect other google services)
+- TikTok (intend to block all TikTok on the network. Yes! It's necessary for the mental health of your loved ones)
+- Trackers (a few trackers, such as facebook and instagram. Does not affect access)
+- Ads and Suspicious (some ads and some suspicious domains, that I don't know what they are for)
 
 That's just it for now!
 
-created at: 9-13-2022.
-lastest update: 3-3-2023
+Created at: 9-13-2022, update: 3-3-2023.
 
 
 ### Download
