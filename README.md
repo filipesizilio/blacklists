@@ -25,7 +25,7 @@ This is a personal project for my very specific goals. Use at your own risk! I a
 
 That's just it for now!
 
-Created at: 9-13-2022, update: 3-3-2023.
+Created at: 9-13-2022, updated: 3-3-2023.
 
 
 ### Download
