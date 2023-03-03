@@ -1,33 +1,3 @@
-# [Youtube Banners Ads]
-0.0.0.0	ggpht.com
-0.0.0.0	ci3.ggpht.com
-0.0.0.0	cp4.ggpht.com
-0.0.0.0	geo0.ggpht.com
-0.0.0.0	geo0.ggpht.com 
-0.0.0.0	geo1.ggpht.com
-0.0.0.0	geo2.ggpht.com
-0.0.0.0	geo3.ggpht.com
-0.0.0.0	geo-staged0.ggpht.com
-0.0.0.0	gm1.ggpht.com
-0.0.0.0	gm2.ggpht.com
-0.0.0.0	gm4.ggpht.com
-0.0.0.0	lh3.ggpht.com
-0.0.0.0	lh3.ggpht.com 
-0.0.0.0	lh4.ggpht.com 
-0.0.0.0	lh5.ggpht.com
-0.0.0.0	lh5.ggpht.com 
-0.0.0.0	lh6.ggpht.com
-0.0.0.0	lh6.ggpht.com 
-0.0.0.0	mua5.ggpht.com
-0.0.0.0	nt1.ggpht.com
-0.0.0.0	nt2.ggpht.com
-0.0.0.0	nt3.ggpht.com
-0.0.0.0	sp1.ggpht.com
-0.0.0.0	sp2.ggpht.com
-0.0.0.0	yt3.ggpht.com 
-0.0.0.0	yt4.ggpht.com
-0.0.0.0	yt4.ggpht.com 
-
 # [Others Ads & suspicious]
 0.0.0.0 dynamic-standard.com
 
@@ -181,4 +151,3 @@
 0.0.0.0	wekan-65-21-3-200.sslip.io
 0.0.0.0	www.51.77.62.100.sslip.io
 0.0.0.0	www.54.206.3.0.sslip.io
-
