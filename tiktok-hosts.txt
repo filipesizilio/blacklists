@@ -68,5 +68,6 @@
 0.0.0.0 pull-rtmp-l11.tiktokcdn.com
 0.0.0.0 pull-rtmp-l1.tiktokcdn.com
 0.0.0.0 pull-w5.tiktokcdn.com
+0.0.0.0 v16-webapp-prime.tiktok.com
 0.0.0.0 webcast16-normal-c-useast1a.tiktokv.com
 0.0.0.0 xlog-va.tiktokv.com
