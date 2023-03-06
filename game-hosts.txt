@@ -76,7 +76,10 @@
 0.0.0.0	cobrasupa.sea.freefiremobile.com
 0.0.0.0	crate.sea.freefiremobile.com
 0.0.0.0	cyberthief.sea.freefiremobile.com
+0.0.0.0 csoversea.stronghold.freefiremobile.com
 0.0.0.0	diamondstore.sea.freefiremobile.com
+0.0.0.0	dl.dir.freefiremobile.com
+0.0.0.0	dl.castle.freefiremobile.com
 0.0.0.0	dod.sea.freefiremobile.com
 0.0.0.0	dragongang.sea.freefiremobile.com
 0.0.0.0	elaphemale.sea.freefiremobile.com
