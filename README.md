@@ -10,6 +10,7 @@ This is a personal project for my very specific goals. Use at your own risk! I a
 #### Games (addictive for my daughters)
   - Roblox
   - PK-XD
+  - Free Fire
 
 #### Softwares (annoying apps accessing the network unnecessarily)
   - Adobe
