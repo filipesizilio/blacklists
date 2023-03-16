@@ -21,6 +21,7 @@
 
 0.0.0.0 tiktokcdn.com
 0.0.0.0 tiktokv.com
+0.0.0.0	inapp.tiktokv.com
 
 0.0.0.0 analytics.tiktok.com
 0.0.0.0 api16-core.tiktokv.com
@@ -104,10 +105,13 @@
 0.0.0.0	jsb31-normal-useast1a.tiktokv.com
 0.0.0.0	libra22-normal-useast1a.tiktokv.com
 0.0.0.0	libra-va.tiktokv.com
+0.0.0.0	lf16-tiktok-web.ttwstatic.com
 0.0.0.0	p16-amd-va.tiktokcdn.com
 0.0.0.0	p16-sg.tiktokcdn.com
 0.0.0.0	p16-sign-sg.tiktokcdn.com
 0.0.0.0	p16-sign-va.tiktokcdn.com
+0.0.0.0	p16-webcast.tiktokcdn.com
+0.0.0.0 p16-tiktokyoyo-va.ibyteimg.com
 0.0.0.0	p77-sign-sg.tiktokcdn.com
 0.0.0.0	p77-sign-va.tiktokcdn.com
 0.0.0.0	p77-va.tiktokcdn.com
