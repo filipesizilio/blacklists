@@ -17,6 +17,7 @@ This is a personal project for my very specific goals. Use at your own risk! I a
   - Autodesk
   - Corel
   - Topaz
+  - Wondershare
 
 ### Others Lists under construction
 - Youtube (intend to block all YouTube on the network. Recommend group/user/client management. May affect other google services)
