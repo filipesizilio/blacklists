@@ -1,4 +1,7 @@
 # [Others Ads & suspicious]
+0.0.0.0 safeframe.googlesyndication.com
+0.0.0.0 googleadservices.com
+
 0.0.0.0 dynamic-standard.com
 
 0.0.0.0 ads.taboola.com
