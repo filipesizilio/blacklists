@@ -3,6 +3,8 @@
 0.0.0.0 apps.facebook.com
 0.0.0.0 connect.facebook.net
 0.0.0.0 facebook.com
+0.0.0.0 gateway.facebook.com
+0.0.0.0 graph.fbpigeon.com
 0.0.0.0 fbcdn.com
 0.0.0.0 fbsbx.com
 0.0.0.0 fbcdn.net
@@ -484,6 +486,7 @@
 0.0.0.0 scontent-vie.xx.fbcdn.net
 0.0.0.0 scontent.fsjc1-2.fna.fbcdn.net
 0.0.0.0 scontent.fsnc1-1.fna.fbcdn.net
+0.0.0.0 scontent.fnat16-1.fna.fbcdn.net
 0.0.0.0 scontent.xx.fbcdn.net
 0.0.0.0 sonar-iad.xx.fbcdn.net
 0.0.0.0 sphotos-a-ams.xx.fbcdn.net
