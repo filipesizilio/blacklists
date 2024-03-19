@@ -8,6 +8,8 @@
 0.0.0.0 platform.instagram.com
 0.0.0.0 telegraph-ash.instagram.com
 0.0.0.0 white.ish.instagram.com
+0.0.0.0 instagram.fnat16-1.fna.fbcdn.net
+0.0.0.0 gateway.instagram.com
 
 0.0.0.0	cdninstagram.com
 0.0.0.0 scontent.cdninstagram.com
