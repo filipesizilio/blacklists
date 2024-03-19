@@ -18,12 +18,10 @@
 0.0.0.0 142.250.64.110
 0.0.0.0 142.250.78.238
 0.0.0.0 142.251.133.174
-
 0.0.0.0 youtube.com
 0.0.0.0 www.youtube.com
 0.0.0.0 youtu.be
 0.0.0.0 googlevideo.com
-
 0.0.0.0 a.youtube.com
 0.0.0.0 b.youtube.com
 0.0.0.0 c.youtube.com
@@ -36,6 +34,3 @@
 0.0.0.0 j.youtube.com
 0.0.0.0 l.youtube.com
 0.0.0.0 m.youtube.com
-
-0.0.0.0 facebook.com
-0.0.0.0 www.facebook.com
