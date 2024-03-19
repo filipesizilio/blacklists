@@ -1,5 +1,9 @@
 # [Facebook]
-
+0.0.0.0 lookaside-fallback.facebook.com
+0.0.0.0 graph-fallback.facebook.com
+0.0.0.0 static.fnat16-1.fna.fbcdn.net
+0.0.0.0 chat-e2ee-mini.facebook.com
+0.0.0.0 snaptu-z.facebook.com
 0.0.0.0 apps.facebook.com
 0.0.0.0 connect.facebook.net
 0.0.0.0 facebook.com
