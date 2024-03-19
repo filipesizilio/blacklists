@@ -12,16 +12,12 @@ This is a personal project for my very specific goals. Use at your own risk! I a
   - PK-XD
   - Free Fire
 
-#### Softwares (annoying apps accessing the network unnecessarily)
-  - Adobe
-  - Autodesk
-  - Corel
-  - Topaz
-  - Wondershare
-
 ### Others Lists under construction
 - Youtube (intend to block all YouTube on the network. Recommend group/user/client management. May affect other google services)
 - TikTok (intend to block all TikTok on the network. Yes! It's necessary for the mental health of your loved ones)
+- Facebok (intend to block all TikTok on the network. Yes! It's necessary for the mental health of your loved ones)
+- Instagram (intend to block all TikTok on the network. Yes! It's necessary for the mental health of your loved ones)
+- Bet (intend to block all TikTok on the network. Save your money)
 - Trackers (a few trackers, such as facebook and instagram. Does not affect access)
 - Ads and Suspicious (some ads and some suspicious domains, that I don't know what they are for)
 
@@ -31,11 +27,14 @@ Created at: 9-13-2022, updated: 3-3-2023.
 
 
 ### Download
-| List       | Download link                                                            |
+| List       | Raw link                                                                 |
 | :----------| :----------------------------------------------------------------------- |
 | Games      | https://github.com/filipesizilio/blacklists/raw/main/game-hosts.txt      |
 | Softwares  | https://github.com/filipesizilio/blacklists/raw/main/software-hosts.txt  |
 | Youtube    | https://github.com/filipesizilio/blacklists/raw/main/youtube-hosts.txt   |
 | TikTok     | https://github.com/filipesizilio/blacklists/raw/main/tiktok-hosts.txt    |
+| Facebook   | https://github.com/filipesizilio/blacklists/raw/main/facebook-hosts.txt  |
+| Instagram  | https://github.com/filipesizilio/blacklists/raw/main/instagram-hosts.txt |
+| Bet        | https://github.com/filipesizilio/blacklists/raw/main/bet-hosts.txt       |
 | Trackers   | https://github.com/filipesizilio/blacklists/raw/main/trackers-hosts.txt  |
 | Ads and suspicious   | https://github.com/filipesizilio/blacklists/raw/main/ads-susp-hosts.txt  |
