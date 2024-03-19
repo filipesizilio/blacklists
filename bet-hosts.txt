@@ -4,7 +4,6 @@
 0.0.0.0 betnacional.com
 0.0.0.0 www.betnacional.com
 0.0.0.0 landingpages.betnacional.com
-0.0.0.0 betnacional.com
 0.0.0.0 landing.betnacional.com
 0.0.0.0 profetize.betnacional.com
 0.0.0.0 record.betnacional.com
