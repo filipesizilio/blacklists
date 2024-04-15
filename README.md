@@ -7,13 +7,11 @@ Maybe it will work for more people. And I recommend to use Pi-hole DNS server.
 This is a personal project for my very specific goals. Use at your own risk! I am not responsible for problems on your network.
 
 ### My Lists 
-#### Games (addictive for my daughters)
-  - Roblox
-  - PK-XD
-  - Free Fire
 
 ### Others Lists under construction
+- Games (Roblox, PK-XD, Free Fire)
 - Youtube (intend to block all YouTube on the network. Recommend group/user/client management. May affect other google services)
+- Streaming (intend to block Netflix, Prime Video, Disney+ and Apple TV+)
 - TikTok (intend to block all TikTok on the network. Yes! It's necessary for the mental health of your loved ones)
 - Facebok (intend to block all TikTok on the network. Yes! It's necessary for the mental health of your loved ones)
 - Instagram (intend to block all TikTok on the network. Yes! It's necessary for the mental health of your loved ones)
@@ -32,6 +30,7 @@ Created at: 9-13-2022, updated: 3-19-2024.
 | Games      | https://github.com/filipesizilio/blacklists/raw/main/game-hosts.txt      |
 | Softwares  | https://github.com/filipesizilio/blacklists/raw/main/software-hosts.txt  |
 | Youtube    | https://github.com/filipesizilio/blacklists/raw/main/youtube-hosts.txt   |
+| Streaming  | https://raw.githubusercontent.com/filipesizilio/blacklists/main/streaming-hosts.txt |
 | TikTok     | https://github.com/filipesizilio/blacklists/raw/main/tiktok-hosts.txt    |
 | Facebook   | https://github.com/filipesizilio/blacklists/raw/main/facebook-hosts.txt  |
 | Instagram  | https://github.com/filipesizilio/blacklists/raw/main/instagram-hosts.txt |
