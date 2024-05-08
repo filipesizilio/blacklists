@@ -106,6 +106,7 @@
 0.0.0.0 wiki.brazino777.com
 0.0.0.0 transactional.brazino777.com
 
+# [outros]
 0.0.0.0 sports.sportingbet.com
 0.0.0.0 sportingbet.com
 0.0.0.0 1win-bet-br.org
@@ -130,6 +131,7 @@
 0.0.0.0 www.bet7.com
 0.0.0.0 bet7.com
 0.0.0.0 www.goal.com
+0.0.0.0 estrelabet.com
 0.0.0.0 www.playpix.com
 0.0.0.0 playpix.com
 0.0.0.0 m.esportesdasorte.com
