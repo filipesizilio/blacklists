@@ -22,16 +22,16 @@
 0.0.0.0 betano.com
 0.0.0.0 br.betano.com
 0.0.0.0 www.betano.com
-0.0.0.0 promos-br.betano.com
 0.0.0.0 cl.betano.com
 0.0.0.0 ro.betano.com
 0.0.0.0 pe.betano.com
-0.0.0.0 promos-pe.betano.com
 0.0.0.0 ec.betano.com
-0.0.0.0 promos-cl.betano.com
 0.0.0.0 promos.betano.com
-0.0.0.0 promos-ro.betano.com
+0.0.0.0 promos-br.betano.com
+0.0.0.0 promos-cl.betano.com
 0.0.0.0 promos-ec.betano.com
+0.0.0.0 promos-pe.betano.com
+0.0.0.0 promos-ro.betano.com
 0.0.0.0 betano.com.registers9.com
 0.0.0.0 affiliates.betano.com
 
