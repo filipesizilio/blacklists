@@ -161,6 +161,7 @@
 # [Corel]
 0.0.0.0 apps.corel.com
 0.0.0.0 mc.corel.com
+0.0.0.0 ipm.corel.com
 0.0.0.0 iws.corel.com
 0.0.0.0 deploy.akamaitechnologies.com
 0.0.0.0 compute-1.amazonaws.com
