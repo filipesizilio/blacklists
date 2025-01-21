@@ -1,6 +1,7 @@
 # [Bet - Sites de Apostas]
 
 # [betnacional]
+0.0.0.0 betnacional.bet.br
 0.0.0.0 betnacional.com
 0.0.0.0 www.betnacional.com
 0.0.0.0 landingpages.betnacional.com
@@ -20,6 +21,7 @@
 
 # [betano]
 0.0.0.0 betano.com
+0.0.0.0 betano.bet.br
 0.0.0.0 br.betano.com
 0.0.0.0 www.betano.com
 0.0.0.0 cl.betano.com
@@ -142,3 +144,5 @@
 0.0.0.0 m.vaidebet.com
 0.0.0.0 vaidebet.com
 0.0.0.0 vaidebet.com.br
+0.0.0.0 h2.bet.br
+0.0.0.0 7games.bet.br
