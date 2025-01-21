@@ -141,3 +141,4 @@
 0.0.0.0 cbet.gg
 0.0.0.0 m.vaidebet.com
 0.0.0.0 vaidebet.com
+0.0.0.0 vaidebet.com.br
