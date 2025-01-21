@@ -139,3 +139,5 @@
 0.0.0.0 esportesdasorte.com
 0.0.0.0 www.esportesdasorte.com
 0.0.0.0 cbet.gg
+0.0.0.0 m.vaidebet.com
+0.0.0.0 vaidebet.com
