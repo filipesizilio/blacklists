@@ -67,10 +67,16 @@
 0.0.0.0 pkxd-bucket.playkidsapp.com
 0.0.0.0 pkxd-lobby.pkds.it
 
+# [Avatar World]
+0.0.0.0 api.pazucloud.com
+0.0.0.0 pazucloud.com
+0.0.0.0 pazu.cloud
+0.0.0.0 cdn.pazu.cloud
+0.0.0.0 forparents.pazucloud.com
+
 # [Free Fire]
 0.0.0.0	freefiremobile.com
 0.0.0.0 freefiremobile-a.akamaihd.net
-
 0.0.0.0	acevehicle.sea.freefiremobile.com
 0.0.0.0	airgacha.sea.freefiremobile.com
 0.0.0.0	airgacha2.sea.freefiremobile.com
