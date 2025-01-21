@@ -83,6 +83,7 @@
 0.0.0.0 betfair.com
 0.0.0.0 br.betfair.com
 0.0.0.0 betfair.com.br
+0.0.0.0 betfair.bet.br
 0.0.0.0 apostas.betfair.com
 0.0.0.0 itsbmga.greyhounds-covid.betfair.com
 0.0.0.0 ie2-historicdataie1-apiemw.betfair.com
@@ -146,3 +147,4 @@
 0.0.0.0 vaidebet.com.br
 0.0.0.0 h2.bet.br
 0.0.0.0 7games.bet.br
+0.0.0.0 kto.bet.br
