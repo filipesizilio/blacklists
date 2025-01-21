@@ -45,7 +45,7 @@
 0.0.0.0 help.bet365.com.cy
 0.0.0.0 www.co.bet365.com
 0.0.0.0 news.bet365.com
-0.0.0.0 poker.bet365.com 
+0.0.0.0 poker.bet365.com
 0.0.0.0 www.seribet365.com
 0.0.0.0 extra.bet365.com.au
 0.0.0.0 members.nj.bet365.com
@@ -122,7 +122,8 @@
 0.0.0.0 1xbet.com
 0.0.0.0 www.1xbet.com
 0.0.0.0 stake.com
-0.0.0.0 melbet.com/br
+0.0.0.0 melbet.com
+0.0.0.0 melbet.com.br
 0.0.0.0 melbetonline.com.br
 0.0.0.0 melbetbr.com
 0.0.0.0 betnordeste.net
