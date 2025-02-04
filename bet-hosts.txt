@@ -148,3 +148,5 @@
 0.0.0.0 h2.bet.br
 0.0.0.0 7games.bet.br
 0.0.0.0 kto.bet.br
+0.0.0.0 bateubet.com
+0.0.0.0 bateu.bet.br
