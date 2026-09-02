@@ -840,8 +840,6 @@
 0.0.0.0 mahindra.m.facebook.com
 0.0.0.0 maps.instagram.com
 0.0.0.0 mbasic.facebook.com
-0.0.0.0 media.fbed1-2.fna.whatsapp.net
-0.0.0.0 media.fbel3-1.fna.whatsapp.net
 0.0.0.0 meli.m.facebook.com
 0.0.0.0 microsoft.m.facebook.com
 0.0.0.0 mietra-de.m.facebook.com
