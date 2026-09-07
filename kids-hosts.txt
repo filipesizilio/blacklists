@@ -1,0 +1,71 @@
+# --- Fóruns anônimos / conteúdo perturbador ---
+0.0.0.0 kiwifarms.st
+0.0.0.0 www.kiwifarms.st
+0.0.0.0 8kun.top
+0.0.0.0 www.8kun.top
+0.0.0.0 9gag.com
+0.0.0.0 www.9gag.com
+0.0.0.0 itemfix.com
+0.0.0.0 www.itemfix.com
+0.0.0.0 kaotic.com
+0.0.0.0 www.kaotic.com
+0.0.0.0 goregrish.com
+0.0.0.0 www.goregrish.com
+0.0.0.0 documentingreality.com
+0.0.0.0 www.documentingreality.com
+0.0.0.0 4chan.org
+0.0.0.0 www.4chan.org
+0.0.0.0 boards.4chan.org
+0.0.0.0 4channel.org
+0.0.0.0 www.4channel.org
+0.0.0.0 boards.4channel.org
+ 
+# --- Chat aleatório com estranhos ---
+0.0.0.0 chathub.net
+0.0.0.0 www.chathub.net
+0.0.0.0 omegle.com
+0.0.0.0 www.omegle.com
+0.0.0.0 chatroulette.com
+0.0.0.0 www.chatroulette.com
+0.0.0.0 chatrandom.com
+0.0.0.0 www.chatrandom.com
+0.0.0.0 emeraldchat.com
+0.0.0.0 www.emeraldchat.com
+0.0.0.0 strangercam.com
+0.0.0.0 www.strangercam.com
+0.0.0.0 coomeet.com
+0.0.0.0 www.coomeet.com
+0.0.0.0 monkey.app
+0.0.0.0 www.monkey.app
+
+# --- Redes sociais / plataformas de risco para a idade ---
+0.0.0.0 discord.com
+0.0.0.0 www.discord.com
+0.0.0.0 ptb.discord.com
+0.0.0.0 canary.discord.com
+0.0.0.0 discordapp.com
+0.0.0.0 www.discordapp.com
+0.0.0.0 cdn.discordapp.com
+0.0.0.0 tumblr.com
+0.0.0.0 www.tumblr.com
+0.0.0.0 character.ai
+0.0.0.0 www.character.ai
+0.0.0.0 beta.character.ai
+0.0.0.0 c.ai
+ 
+# --- Sites de encontros (dating apps) ---
+0.0.0.0 tinder.com
+0.0.0.0 www.tinder.com
+0.0.0.0 badoo.com
+0.0.0.0 www.badoo.com
+0.0.0.0 bumble.com
+0.0.0.0 www.bumble.com
+0.0.0.0 yubo.live
+0.0.0.0 www.yubo.live
+0.0.0.0 grindr.com
+0.0.0.0 www.grindr.com
+0.0.0.0 okcupid.com
+0.0.0.0 www.okcupid.com
+0.0.0.0 taimi.com
+0.0.0.0 www.taimi.com
+ 
