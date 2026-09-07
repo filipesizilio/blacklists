@@ -182,6 +182,23 @@
 0.0.0.0	www.slotmachine.sea.freefiremobile.com
 0.0.0.0	www.winterbattle.sea.freefiremobile.com
 
-
 # [Others]
 0.0.0.0 superkinglabs.com
+0.0.0.0 poki.com.br
+0.0.0.0 www.poki.com.br
+0.0.0.0 crazygames.com
+0.0.0.0 www.crazygames.com
+0.0.0.0 krunker.io
+0.0.0.0 www.krunker.io
+0.0.0.0 slither.io
+0.0.0.0 www.slither.io
+0.0.0.0 agar.io
+0.0.0.0 www.agar.io
+0.0.0.0 paper.io
+0.0.0.0 www.paper.io
+0.0.0.0 shellshock.io
+0.0.0.0 www.shellshock.io
+0.0.0.0 iogames.space
+0.0.0.0 www.iogames.space
+0.0.0.0 iogames.onl
+0.0.0.0 www.iogames.onl
