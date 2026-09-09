@@ -18,6 +18,7 @@ This is a personal project for my very specific goals. Use at your own risk! I a
 - Bet (intend to block all bets on the network. Save your money)
 - Trackers (a few trackers, such as facebook and instagram. Does not affect access)
 - Ads and Suspicious (some ads and some suspicious domains, that I don't know what they are for)
+- Kids (anonymous forums, chats with strangers, Discord, and dating sites)
 
 That's just it for now!
 
@@ -37,3 +38,4 @@ Created at: 9-13-2022, updated: 3-19-2024.
 | Bet        | https://github.com/filipesizilio/blacklists/raw/main/bet-hosts.txt       |
 | Trackers   | https://github.com/filipesizilio/blacklists/raw/main/trackers-hosts.txt  |
 | Ads and suspicious   | https://github.com/filipesizilio/blacklists/raw/main/ads-susp-hosts.txt  |
+| Kids   | https://github.com/filipesizilio/blacklists/raw/main/kids-hosts.txt  |
