@@ -1,7 +1,7 @@
 # Sizilio's Blacklists
 Blacklists of some boring game and software domains.
 
-I decided to join here some lists with hostnames that I didn't find in other lists and that I like to block.
+I decided to join here some lists with hostnames that I didn't find in other lists and that I like to block to protect my daughters.
 Maybe it will work for more people. And I recommend to use Pi-hole DNS server.
 
 This is a personal project for my very specific goals. Use at your own risk! I am not responsible for problems on your network.
@@ -9,13 +9,13 @@ This is a personal project for my very specific goals. Use at your own risk! I a
 ### My Lists 
 
 ### Others Lists under construction
-- Games (Roblox, PK-XD, Free Fire)
+- Games (Roblox, PK-XD, Free Fire, .io Games)
 - Youtube (intend to block all YouTube on the network. Recommend group/user/client management. May affect other google services)
 - Streaming (intend to block Netflix, Prime Video, Disney+ and Apple TV+)
 - TikTok (intend to block all TikTok on the network. Yes! It's necessary for the mental health of your loved ones)
-- Facebok (intend to block all TikTok on the network. Yes! It's necessary for the mental health of your loved ones)
-- Instagram (intend to block all TikTok on the network. Yes! It's necessary for the mental health of your loved ones)
-- Bet (intend to block all TikTok on the network. Save your money)
+- Facebok (intend to block all Facebook on the network. Yes! It's necessary for the mental health of your loved ones)
+- Instagram (intend to block all Instagram on the network. Yes! It's necessary for the mental health of your loved ones)
+- Bet (intend to block all bets on the network. Save your money)
 - Trackers (a few trackers, such as facebook and instagram. Does not affect access)
 - Ads and Suspicious (some ads and some suspicious domains, that I don't know what they are for)
 
