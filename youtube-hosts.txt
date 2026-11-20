@@ -1,4 +1,4 @@
-# [YouTube Blocklist - Pi-hole]
+# [YouTube Blocklist]
 # Focado em Web, Apps (Android/iOS), Smart TVs e FireTV sem quebrar outros serviços Google.
 
 # Domínios principais e Mobile
