@@ -1,7 +1,65 @@
-# [Youtube]
-# We recommend use Group/user management to not block all youtube traffic.
-# May affect other google services
+# [YouTube Blocklist - Pi-hole]
+# Focado em Web, Apps (Android/iOS), Smart TVs e FireTV sem quebrar outros serviços Google.
 
+# Domínios principais e Mobile
+0.0.0.0 youtube.com
+0.0.0.0 www.youtube.com
+0.0.0.0 m.youtube.com
+0.0.0.0 youtu.be
+0.0.0.0 www.youtu.be
+0.0.0.0 yt.be
+0.0.0.0 youtube-nocookie.com
+0.0.0.0 www.youtube-nocookie.com
+
+# YouTube Kids, Music, TV e Studio
+0.0.0.0 kids.youtube.com
+0.0.0.0 youtubekids.com
+0.0.0.0 www.youtubekids.com
+0.0.0.0 music.youtube.com
+0.0.0.0 tv.youtube.com
+0.0.0.0 studio.youtube.com
+0.0.0.0 accounts.youtube.com
+0.0.0.0 gaming.youtube.com
+
+# APIs usadas pelos Apps (Celular, Tablet, FireTV e Smart TV)
+0.0.0.0 youtubei.googleapis.com
+0.0.0.0 youtube.googleapis.com
+0.0.0.0 youtube-ui.l.google.com
+0.0.0.0 youtube.l.google.com
+0.0.0.0 ytstatic.l.google.com
+0.0.0.0 wide-youtube.l.google.com
+
+# Mídia, Streams e Thumbnails
+0.0.0.0 googlevideo.com
+0.0.0.0 manifest.googlevideo.com
+0.0.0.0 redirector.googlevideo.com
+0.0.0.0 ytimg.com
+0.0.0.0 i.ytimg.com
+0.0.0.0 s.ytimg.com
+0.0.0.0 i1.ytimg.com
+0.0.0.0 i2.ytimg.com
+0.0.0.0 i3.ytimg.com
+0.0.0.0 i4.ytimg.com
+0.0.0.0 i9.ytimg.com
+0.0.0.0 img.youtube.com
+0.0.0.0 yt3.ggpht.com
+0.0.0.0 yt4.ggpht.com
+
+# Subdomínios genéricos antigos
+0.0.0.0 a.youtube.com
+0.0.0.0 b.youtube.com
+0.0.0.0 c.youtube.com
+0.0.0.0 d.youtube.com
+0.0.0.0 e.youtube.com
+0.0.0.0 f.youtube.com
+0.0.0.0 g.youtube.com
+0.0.0.0 h.youtube.com
+0.0.0.0 i.youtube.com
+0.0.0.0 j.youtube.com
+0.0.0.0 l.youtube.com
+0.0.0.0 m.youtube.com
+
+# IPs - Pi-hole ignora endereços IP em listas DNS (Gravity)
 0.0.0.0 172.217.10.110
 0.0.0.0 172.217.165.142
 0.0.0.0 172.217.7.14
@@ -18,19 +76,3 @@
 0.0.0.0 142.250.64.110
 0.0.0.0 142.250.78.238
 0.0.0.0 142.251.133.174
-0.0.0.0 youtube.com
-0.0.0.0 www.youtube.com
-0.0.0.0 youtu.be
-0.0.0.0 googlevideo.com
-0.0.0.0 a.youtube.com
-0.0.0.0 b.youtube.com
-0.0.0.0 c.youtube.com
-0.0.0.0 d.youtube.com
-0.0.0.0 e.youtube.com
-0.0.0.0 f.youtube.com
-0.0.0.0 g.youtube.com
-0.0.0.0 h.youtube.com
-0.0.0.0 i.youtube.com
-0.0.0.0 j.youtube.com
-0.0.0.0 l.youtube.com
-0.0.0.0 m.youtube.com
